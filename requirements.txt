@@ -1,0 +1,9 @@
+pandas
+geopandas
+numpy
+scikit-learn
+statsmodels
+pymc3
+arviz
+matplotlib
+joblib
