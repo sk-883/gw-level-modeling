@@ -111,10 +111,6 @@ See the `evaluation.py` output for a comparative table of model performance metr
 
 Contributions are welcome! Feel free to open issues or submit pull requests for bug fixes, new models, or improvements.
 
-##  License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
 ---
 
 *Developed by **sk_883** *
