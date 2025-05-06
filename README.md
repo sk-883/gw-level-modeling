@@ -102,9 +102,6 @@ groundwater-prediction/
    python -m src.visualize
    ```
 
-## 🧪 Notebooks
-
-Use the Jupyter notebooks in `notebooks/` for interactive exploration and prototyping. They demonstrate data exploration, feature creation, and quick model experiments.
 
 ##  Results & Interpretation
 
